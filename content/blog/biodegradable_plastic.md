@@ -1,7 +1,7 @@
 ---
 date: "2023-08-16"
 title: "知識分享《生物可分解塑膠》"
-image: "images/blog/carbon-neutral.png"
+image: "images/blog/biodegradable_plastic.JPG"
 draft: false
 categories: [知識分享]
 ---
