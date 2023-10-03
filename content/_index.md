@@ -4,7 +4,7 @@ banner:
   title: "我們是安普拉絲特φ<br>UNPLASTIFY YOUTH"
   # button: "Get Premium Version"
   # button_link: "https://gethugothemes.com/products/andromeda/"
-  image: "images/up_team2023.jpg"
+  image: "images/up_team2023f.jpg"
 
 
 # brands
