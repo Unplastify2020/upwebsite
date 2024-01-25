@@ -2,7 +2,7 @@
 title: "知識分享《剩食導致氣候變遷》"
 date: 2023-08-29
 draft: false
-image: "images/blog/covid-impact.png"
+image: "images/blog/leftover_food.png"
 categories: [知識分享]
 ---
 ## 生產過程的溫室氣體排放

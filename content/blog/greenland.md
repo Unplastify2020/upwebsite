@@ -2,7 +2,7 @@
 title: "知識分享《格陵蘭正在變綠》"
 date: 2023-10-03
 draft: false
-image: "images/blog/covid-impact.png"
+image: "images/blog/greenland.png"
 categories: [知識分享]
 ---
 2021年，格陵蘭頂峰迎來史上首次降雨，不是幾滴毛毛雨，而是持續9小時的降雨。當地科學家措手不及，因為測站並無配備雨水測量儀。今年從六月起，格陵蘭融冰劇烈增加，是繼2012以來融冰最嚴重的一年。以上種種現象提醒我們要做好適應氣候變遷的準備。
